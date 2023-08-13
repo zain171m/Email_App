@@ -1,0 +1,14 @@
+textarea {
+    min-height: 400px;
+}
+
+.clickable {
+    transition: background-color 0.3s; /* Add a smooth transition effect */
+    margin:20px;
+    
+  }
+  
+  .clickable:hover {
+    background-color: #B0B0B0; /* Slightly darker color on hover */
+    cursor: pointer;
+  }
